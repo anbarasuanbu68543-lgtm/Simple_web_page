@@ -13,7 +13,7 @@ It contains a **Home page** and a **Contact form** for users to reach out.
 - **Contact Page** – Contact form to get in touch  
 
 ## 🔗 Live Demo
-[View Website](link)
+[View Website](https://anbarasuanbu68543-lgtm.github.io/Simple_web_page/)
 
 ## 🛠️ Built With
 - HTML  
